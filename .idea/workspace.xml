@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d71c1ef-1f21-4150-a46f-c0b0fc615d4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dodo-client/src/main/java/com/nns/dodo/client/ClientApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dodo-client/src/main/java/com/nns/dodo/client/ConsumerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dodo-client/src/main/java/com/nns/dodo/client/ConsumerServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dodo-client/src/main/java/com/nns/dodo/client/service/ConsumerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dodo-client/src/main/java/com/nns/dodo/client/service/impl/ConsumerServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dodo-client/dodoclient.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dodo-client/dodoclient.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dodo-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dodo-client/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dodo-common/dodocommon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dodo-common/dodocommon.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dodo-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dodo-common/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dodo-config-server/dodoconfigserver.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dodo-config-server/dodoconfigserver.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dodo-config-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dodo-config-server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dodo-server/dodoserver.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dodo-server/dodoserver.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dodo-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dodo-server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -44,12 +29,14 @@
         <counts>
           <entry key="gitignore" value="1" />
           <entry key="java" value="21" />
+          <entry key="md" value="1" />
           <entry key="xml" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="21" />
+          <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="8" />
         </counts>
@@ -58,12 +45,14 @@
         <counts>
           <entry key="gitignore" value="5" />
           <entry key="java" value="4" />
+          <entry key="md" value="178" />
           <entry key="xml" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="4" />
+          <entry key="Markdown" value="178" />
           <entry key="PLAIN_TEXT" value="5" />
           <entry key="XML" value="6" />
         </counts>
@@ -84,8 +73,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dodo-common/src/main/java/com/nns/dodo/common/annotation/scan/RPCProvierSpringBeanScanner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+            <state relative-caret-position="168">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,10 +83,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" selection-start-column="5" selection-end-column="5" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="384">
+                <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -197,6 +189,7 @@
         <option value="$PROJECT_DIR$/dodo-common/src/main/java/com/nns/dodo/common/annotation/scan/RPCProvierSpringBeanScanner.java" />
         <option value="$PROJECT_DIR$/dodo-common/src/main/java/com/nns/dodo/common/annotation/scan/AbstractRPCSpringBeanScanner.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -227,185 +220,6 @@
               <item name="dodo" type="b2602c69:ProjectViewProjectNode" />
               <item name="dodo" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="dodo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dodo" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dodo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dodo" type="462c0819:PsiDirectoryNode" />
-              <item name="dodo-client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dodo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dodo" type="462c0819:PsiDirectoryNode" />
-              <item name="dodo-common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dodo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dodo" type="462c0819:PsiDirectoryNode" />
-              <item name="dodo-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dodo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dodo" type="462c0819:PsiDirectoryNode" />
-              <item name="dodo-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dodo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dodo" type="462c0819:PsiDirectoryNode" />
-              <item name="dodo-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dodo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dodo" type="462c0819:PsiDirectoryNode" />
-              <item name="dodo-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dodo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dodo" type="462c0819:PsiDirectoryNode" />
-              <item name="dodo-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="annotation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dodo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dodo" type="462c0819:PsiDirectoryNode" />
-              <item name="dodo-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="enums" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dodo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dodo" type="462c0819:PsiDirectoryNode" />
-              <item name="dodo-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="scan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dodo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dodo" type="462c0819:PsiDirectoryNode" />
-              <item name="dodo-config-server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dodo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dodo" type="462c0819:PsiDirectoryNode" />
-              <item name="dodo-config-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dodo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dodo" type="462c0819:PsiDirectoryNode" />
-              <item name="dodo-config-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dodo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dodo" type="462c0819:PsiDirectoryNode" />
-              <item name="dodo-config-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dodo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dodo" type="462c0819:PsiDirectoryNode" />
-              <item name="dodo-server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dodo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dodo" type="462c0819:PsiDirectoryNode" />
-              <item name="dodo-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dodo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dodo" type="462c0819:PsiDirectoryNode" />
-              <item name="dodo-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dodo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dodo" type="462c0819:PsiDirectoryNode" />
-              <item name="dodo-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dodo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dodo" type="462c0819:PsiDirectoryNode" />
-              <item name="dodo-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dodo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dodo" type="462c0819:PsiDirectoryNode" />
-              <item name="dodo-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="anotation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dodo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dodo" type="462c0819:PsiDirectoryNode" />
-              <item name="dodo-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="register" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dodo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dodo" type="462c0819:PsiDirectoryNode" />
-              <item name="dodo-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dodo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dodo" type="462c0819:PsiDirectoryNode" />
-              <item name="dodo-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -416,7 +230,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1607100110681" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1607100969293" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -451,12 +265,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607097203212</updated>
-      <workItem from="1607097207314" duration="2907000" />
+      <workItem from="1607097207314" duration="3759000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2907000" />
+    <option name="totallyTimeSpent" value="3759000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -604,13 +418,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dodo-common/src/main/java/com/nns/dodo/common/annotation/scan/AbstractRPCSpringBeanScanner.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -621,20 +432,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dodo-common/src/main/java/com/nns/dodo/common/annotation/scan/RPCProvierSpringBeanScanner.java">
+    <entry file="file://$PROJECT_DIR$/dodo-common/src/main/java/com/nns/dodo/common/annotation/scan/AbstractRPCSpringBeanScanner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+        <state relative-caret-position="384">
+          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/dodo-common/src/main/java/com/nns/dodo/common/annotation/scan/RPCProvierSpringBeanScanner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        <state relative-caret-position="168">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="384">
+            <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
