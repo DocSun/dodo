@@ -6,7 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="dodo" />
+        <module name="dodoclient" />
+        <module name="dodocommon" />
+        <module name="dodoconfigserver" />
+        <module name="dodoserver" />
       </profile>
     </annotationProcessing>
   </component>

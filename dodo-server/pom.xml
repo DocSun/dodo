@@ -12,4 +12,15 @@
     <artifactId>dodo-server</artifactId>
 
 
+    <dependencies>
+        <dependency>
+            <groupId>com.johnny.test</groupId>
+            <artifactId>rpc-common</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
+    </dependencies>
 </project>

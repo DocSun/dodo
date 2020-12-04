@@ -15,5 +15,61 @@
         <module>dodo-common</module>
     </modules>
 
+    <properties>
+        <maven.compiler.target>1.8</maven.compiler.target>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <rpc-common-version>1.0.0-SNAPSHOT</rpc-common-version>
+        <rpc-config-verion>1.0.0-SNAPSHOT</rpc-config-verion>
+        <spring.version>4.2.5.RELEASE</spring.version>
+    </properties>
+
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>org.projectlombok</groupId>
+                <artifactId>lombok</artifactId>
+                <version>1.18.10</version>
+            </dependency>
+
+            <dependency>
+                <groupId>com.johnny.test</groupId>
+                <artifactId>rpc-common</artifactId>
+                <version>${rpc-common-version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>com.johnny.test</groupId>
+                <artifactId>rpc-config-server</artifactId>
+                <version>${rpc-config-verion}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>com.johnny.test</groupId>
+                <artifactId>rpc-client</artifactId>
+                <version>${rpc-client-verion}</version>
+            </dependency>
+
+
+            <!-- spring 相关依赖   start-->
+            <dependency>
+                <groupId>org.springframework</groupId>
+                <artifactId>spring-core</artifactId>
+                <version>${spring.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>org.springframework</groupId>
+                <artifactId>spring-beans</artifactId>
+                <version>${spring.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>org.springframework</groupId>
+                <artifactId>spring-context</artifactId>
+                <version>${spring.version}</version>
+            </dependency>
+            <!-- spring 相关依赖   end-->
+        </dependencies>
+    </dependencyManagement>
 
 </project>
