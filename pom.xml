@@ -9,10 +9,10 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>dodo-client</module>
-        <module>dodo-server</module>
+        <module>dodo-consumer</module>
+        <module>dodo-publisher</module>
         <module>dodo-config-server</module>
-        <module>dodo-common</module>
+        <module>dodo-common-client</module>
     </modules>
 
     <properties>
@@ -59,7 +59,7 @@
 
             <dependency>
                 <groupId>org.springframework</groupId>
-                <artifactId>spring-beans</artifactId>
+                <artifactId>spring-com.nns.dodo.server.service.beans</artifactId>
                 <version>${spring.version}</version>
             </dependency>
 
